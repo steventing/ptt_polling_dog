@@ -1,4 +1,4 @@
-# test
+# ptt polling dog
 
 echo "# test" >> README.md
 git init
